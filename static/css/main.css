@@ -1,4 +1,3 @@
-@charset "utf-8";
 
 /*
 Theme Name: Careera Next Portfolio/Resume HTML Template
@@ -58,7 +57,7 @@ body {
 	line-height:1;
 	color:#6a6a6a;
 	font-family:"Lucida Sans Unicode", "Lucida Grande", Arial, Helvetica, sans-serif;
-	font-size:13px; 
+	font-size:13px;
 	font-weight:normal;
 }
 
@@ -79,7 +78,7 @@ a img {border:none;}
 2. GLOBAL TYPOGRAPHY
 /*======================================================================================*/
 h1 {font-size:45px;}
-h2 {font-size:28px;}
+h2 {font-size:36px;}
 h3 {font-size:26px;}
 h4 {font-size:24px;}
 h5 {font-size:22px;}
@@ -97,15 +96,13 @@ h1, h2, h3, h4, h5, h6 {
 h2 {
 	float:left;
 	line-height:40px;
-	height:40px;
-	background:#000 url(../img/h2-bg.png) no-repeat right;
+	border-bottom:2px solid #000;
 	margin:0 0 20px 0;
-	padding:0 50px 0 10px;
-	color:#fff;
+	color:#000;
 }
 
 a {
-	color:#000; 
+	color:#000;
 	text-decoration: underline;
 }
 
@@ -127,21 +124,21 @@ small {
 	font-size:85%;
 }
 
-strong { 
+strong {
 	font-weight: bold;
 }
 
 ::-moz-selection {
-	background: #000000; 
-	color:#fff; 
+	background: #000000;
+	color:#fff;
 	text-shadow: none;
 }
 
 ::selection {
-	background:#000000; 
-	color:#fff; 
+	background:#000000;
+	color:#fff;
 	text-shadow: none;
-} 
+}
 
 /*======================================================================================
 3. CORE STRUCTURE
@@ -150,14 +147,20 @@ strong {
 /*-------------------------------------------------------------------
 3.1 Main navigation
 ---------------------------------------------------------------------*/
+#main-nav-bg {
+	background: url(../img/main-nav-bg.png) no-repeat;
+	width: 1040px;
+	height: 76px;
+	position:absolute;
+	left:-100px;
+	margin:20px 0 0 0;
+}
+
 #main-nav {
 	float: right;
 	font-size:22px;
 	font-family:'Yanone Kaffeesatz', Arial, Helvetica, sans-serif;
-	position:relative;
-	top:1px;
-	left:0;
-	margin:20px 0 0 0;
+	margin:10px 80px 0 0;
 }
 
 #main-nav li {
@@ -169,12 +172,12 @@ strong {
 	display: block;
 	text-transform: uppercase;
 	text-decoration:none;
-	color: #000;
+	color: #fff;
 	padding:0 10px 0 10px;
 }
 
 #main-nav li a:hover, #main-nav li.current a {
-	border-bottom: 1px solid #000;
+	color: #545454;
 }
 
 /*-------------------------------------------------------------------
@@ -187,7 +190,7 @@ strong {
 }
 
 #page {
-	width:1000px; 
+	width:1000px;
 	margin:0 auto;
 	padding:0;
 	background:#fff;
@@ -197,21 +200,21 @@ strong {
 	padding:60px 80px 0 80px;
 }
 
-#content-left { 
+#content-left {
 	float:left;
-	width:390px; 
+	width:390px;
 	margin:0 30px 0 0;
 }
 
-#content-right { 
+#content-right {
 	float:left;
-	width:390px; 
+	width:390px;
 	margin:0 0 0 30px;
 }
 
 #header {
-	border-bottom:1px dotted #000;
-	margin:0 0 40px 0;
+	margin:0 0 116px 0;
+	position:relative;
 }
 
 #text {
@@ -405,8 +408,8 @@ p.margin {
 .stars {
 	margin:5px 0 0 0;
 }
- 
-.stars li { 
+
+.stars li {
  	float:left;
 	display:block;
 }
@@ -494,11 +497,11 @@ p.margin {
 }
 
 span.portfolio-overlay {
-	position: absolute; 
-	top:0; 
-	left:0; 
+	position: absolute;
+	top:0;
+	left:0;
 	background: url(../img/inner-shadow.png) no-repeat;
-	width: 167px; 
+	width: 167px;
 	height: 167px;
 }
 
@@ -634,7 +637,7 @@ span.portfolio-overlay {
 	margin:40px 0 0 0;
 }
 
-#check { 
+#check {
 }
 
 #check li {
@@ -666,9 +669,9 @@ span.portfolio-overlay {
 7. ABOUT ME PAGE
 /*======================================================================================*/
 #about img {
-	float:left; 
-	width:300px; 
-	height:315px; 
+	float:left;
+	width:300px;
+	height:315px;
 	margin:0 40px 0 0;
 }
 
@@ -718,12 +721,12 @@ blockquote.about-me p.quote-author {
 #chart {}
 
 #chart li {
-	height:35px; 
-	color:#000; 
-	font-style:italic; 
-	line-height:35px; 
-	padding:0 10px 0 10px; 
-	margin:0 0 5px 0; 
+	height:35px;
+	color:#000;
+	font-style:italic;
+	line-height:35px;
+	padding:0 10px 0 10px;
+	margin:0 0 5px 0;
 	background:#cccdce;
 }
 
