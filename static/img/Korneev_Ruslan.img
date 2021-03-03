@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<!-- saved from url=(0068)https://usermap.cvut.cz/profile/e87ce662-5a90-4869-9db8-7ef759298376 -->
+<html lang="cs"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="_csrf" content="227fa79f-4a1d-46cb-8e5c-76085af5dfb3">
+        <meta name="_csrf_header" content="X-CSRF-TOKEN">
+        
+        <meta name="author" content="ČVUT-VIC, Ing. Petr Karel">
+        <meta name="description" content="UserMap - systém pro evidenci a správu uživatelů v rámci IS ČVUT">
+        <title>Korneev, Ruslan</title>
+
+        <link rel="icon" type="image/png" sizes="32x32" href="https://usermap.cvut.cz/assets/images/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="96x96" href="https://usermap.cvut.cz/assets/images/favicon-96x96.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="https://usermap.cvut.cz/assets/images/favicon-16x16.png">
+            <link rel="stylesheet" href="./Korneev_Ruslan_files/bootstrap.min.css">
+            <link rel="stylesheet" href="./Korneev_Ruslan_files/usermap-common.css">
+            <link rel="stylesheet" href="./Korneev_Ruslan_files/datatables.min.css">
+            <link rel="stylesheet" href="./Korneev_Ruslan_files/datatables-fix.css">
+            <link rel="stylesheet" href="./Korneev_Ruslan_files/academicons.min.css">
+            <link rel="stylesheet" href="./Korneev_Ruslan_files/profile.css">
+        <script>
+            window.APP_CONTEXT = '/profile/';
+            window.APP_LANG = 'cs';
+            window.PRINCIPAL_UUID = 'e87ce662-5a90-4869-9db8-7ef759298376';
+        </script>
+
+            <script async="" src="./Korneev_Ruslan_files/js"></script>
+            <script>
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                gtag('js', new Date());
+                gtag('controller', 'UA-6923369-6');
+            </script>
+    </head>
+    <body>
+        <div id="header">
+            <nav class="navbar navbar-default">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-menu" aria-expanded="false">
+                <span class="sr-only"> Zobrazit/Skrýt navigaci</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="pull-left navbar-brand" href="https://usermap.cvut.cz/">
+                <img class="img-responsive" src="./Korneev_Ruslan_files/logo-w.svg">
+            </a>
+            <a class="pull-left navbar-brand" href="https://usermap.cvut.cz/">
+                USERMAP
+            </a>
+        </div>
+
+        <div class="collapse navbar-collapse" id="main-menu">
+            <!-- Left navigation -->
+            <ul class="nav navbar-nav navbar-nav-icon">
+                        <li class="active">
+                                <a href="https://usermap.cvut.cz/search">
+                                    <i class="icon fa fa-fw fa-users"></i>
+                                    <span class="hidden-sm">Lidé na ČVUT</span>
+                                </a>
+                        </li>
+                        <li class="">
+                                <a href="https://usermap.cvut.cz/search/department">
+                                    <i class="icon fa fa-fw fa-building"></i>
+                                    <span class="hidden-sm">Pracoviště</span>
+                                </a>
+                        </li>
+                        <li class="">
+                                <a href="https://usermap.cvut.cz/profile/e87ce662-5a90-4869-9db8-7ef759298376#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                                    <i class="icon fa fa-fw fa-user-secret"></i>
+                                    <span class="hidden-sm">Role <span class="caret"></span></span>
+                                </a>
+                                <ul class="dropdown-menu">
+                                        <li><a href="https://usermap.cvut.cz/rm/search"><i class="fa fa-fw fa-search"></i><span>Vyhledávání rolí a žádostí</span></a></li>
+                                        <li><a href="https://usermap.cvut.cz/rm/requests"><i class="fa fa-fw fa-address-card-o"></i><span>Podání žádosti o roli</span></a></li>
+                                </ul>
+                        </li>
+            </ul>
+
+            <!-- Right user info -->
+            <ul class="nav navbar-nav navbar-nav-icon navbar-right">
+
+
+                <li class="dropdown">
+                    <a href="https://usermap.cvut.cz/profile/e87ce662-5a90-4869-9db8-7ef759298376#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                        <i class="icon fa fa-fw fa-user"></i>
+                        <span class="hidden-sm">Korneev, Ruslan <span class="caret"></span>  </span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="https://usermap.cvut.cz/profile/e87ce662-5a90-4869-9db8-7ef759298376"><i class="fa fa-fw fa-user-o"></i><span>Uživatelský profil</span></a></li>
+                        <li><a href="https://usermap.cvut.cz/logout"><i class="fa fa-fw fa-power-off"></i><span>Odhlásit</span></a></li>
+                    </ul>
+                </li>
+
+
+                <li>
+                    <a href="https://usermap.cvut.cz/profile/e87ce662-5a90-4869-9db8-7ef759298376?lang=en">
+                        <i class="icon fa fa-fw fa-globe"></i>
+                        <span class="hidden-sm">CZ/EN</span>
+                    </a>
+                </li>
+            </ul><!-- /.Right user info -->
+        </div><!-- /.navbar-collapse -->
+    </div>
+</nav>
+
+        </div>
+        <div id="content" class="main">
+            <div class="container">
+
+</div>
+
+<div class="container">
+    <div class="cn">Ruslan Korneev</div>
+    <div class="row">
+        <div class="col-md-2 hidden-xs hidden-sm">
+            <div class="photo">
+                <div id="photo-png" style="width: 100%; height: 100%; background: url(/profile/photos/e87ce662-5a90-4869-9db8-7ef759298376?type=jpg) no-repeat center;">
+                </div>
+            </div>
+            <div class="qrcode">
+                <a class="btn btn-sm btn-default" data-placement="bottom" tabindex="0" title="" role="button" data-toggle="popover" data-trigger="focus" data-html="true" data-content="&lt;div style=&#39;text-align: center;&#39;&gt;&lt;img src=/profile/qrcode/e87ce662-5a90-4869-9db8-7ef759298376/&gt;&lt;/div&gt;&lt;div style=&#39;font-size: 12px&#39;&gt;Načtením QR kódu si můžete uložit kontakt na uživatele do mobilního telefonu.&lt;/div&gt;" data-original-title="Kontaktní QR kód"><i class="fa fa-qrcode" aria-hidden="true"></i>&nbsp;&nbsp;Zobrazit kontaktní QR kód</a>
+            </div>
+        </div>
+        <div class="col-md-10 col-sm-12">
+            <ul class="nav nav-tabs hidden-print">
+                <li role="presentation" class="active"><a href="https://usermap.cvut.cz/profile/e87ce662-5a90-4869-9db8-7ef759298376" style="cursor: pointer"><i class="icon fa fa-user" style="padding-right: 10px"></i>Profil uživatele</a></li>
+                    <li role="presentation" class=""><a href="https://usermap.cvut.cz/profile/e87ce662-5a90-4869-9db8-7ef759298376/settings" style="cursor: pointer"><i class="icon fa fa-cog" style="padding-right: 10px"></i>Nastavení</a></li>
+
+
+            </ul>
+            <div class="tab">
+
+<div class="profile">
+
+    <h3 style="margin-top: 0px;">Role na ČVUT</h3>
+    <div class="row">
+        <div class="col-md-3 data-label">Pozice na ČVUT</div>
+        <div class="col-md-9">
+            <ul id="profile-roles" class="list-unstyled">
+            </ul>
+            <ul id="profile-roles" class="list-unstyled" style="">
+                        <li>
+                                <a href="https://usermap.cvut.cz/search/department/14000#14024">účastník celoživotního vzdělávání / Fakulta jaderná a fyzikálně inženýrská</a>
+                        </li>
+            </ul>
+        </div>
+    </div>
+
+
+    <h3>Kontaktní údaje</h3>
+        <div class="row">
+            <div class="col-md-3 data-label">E-mail</div>
+            <div class="col-md-9">
+                <ul id="profile-emails" class="list-unstyled">
+                            <li><a href="mailto:kornerus@fjfi.cvut.cz"><strong>kornerus@fjfi.cvut.cz</strong></a></li>
+                            <li><a href="mailto:shaggy_gud01@mail.ru">shaggy_gud01@mail.ru</a></li>
+                </ul>
+            </div>
+        </div>
+
+
+    <h3>Údaje o identitě</h3>
+
+    <div class="row">
+        <div class="col-md-3 data-label">Osobní číslo</div>
+        <div class="col-md-9">502591</div>
+    </div>
+        <div class="row">
+            <div class="col-md-3 data-label">Uživatelské jméno</div>
+            <div class="col-md-9">kornerus</div>
+        </div>
+        <div class="row">
+            <div class="col-md-3 data-label">Rodné číslo (typ MŠMT)</div>
+            <div class="col-md-9">01050921A2</div>
+        </div>
+        <div class="row">
+            <div class="col-md-3 data-label">Pohlaví</div>
+            <div class="col-md-9">muž</div>
+        </div>
+        <div class="row">
+            <div class="col-md-3 data-label">Datum narození</div>
+            <div class="col-md-9">09.05.2001</div>
+        </div>
+        <div class="row">
+            <div class="col-md-3 data-label">Místo narození</div>
+            <div class="col-md-9">Mozdok</div>
+        </div>
+    <div class="row">
+        <div class="col-md-3 data-label">Stát narození</div>
+        <div class="col-md-9">Rusko</div>
+    </div>
+        <div class="row">
+            <div class="col-md-3 data-label">Státní příslušnost</div>
+            <div class="col-md-9">Rusko</div>
+        </div>
+        <div class="row">
+            <div class="col-md-3 data-label">Kvalita identity</div>
+            <div class="col-md-9">B - Identita plně identifikovaná, údaje neověřené</div>
+        </div>
+
+    <div class="panel-group" style="margin-top: 20px;">
+
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <a role="button" data-toggle="collapse" href="https://usermap.cvut.cz/profile/e87ce662-5a90-4869-9db8-7ef759298376#profile-ctu-password" class="" aria-expanded="true">Heslo ČVUT<i class="fa collapse-btn fa-minus-circle"></i></a>
+                <div class="password-actual-state" style="">—&nbsp;&nbsp; Aktuální stav: <span class="valid">Heslo je platné</span><span class="date"> (do 21.09.2021 12:51:16)</span></div>
+            </div>
+            <div id="profile-ctu-password" class="panel-collapse collapse in" aria-expanded="true" style="">
+                <div class="panel-body">
+                    <div class="loading-data" style="display: none;"><i class="icon fa fa-fw fa-refresh fa-spin"></i>&nbsp;&nbsp;Načítají se data...</div>
+                    <div id="DataTables_Table_0_wrapper" class="dataTables_wrapper form-inline dt-bootstrap no-footer"><table class="table table-condensed table-hover display responsive dataTable no-footer dtr-inline" width="100%" id="DataTables_Table_0" role="grid">
+                    <thead><tr role="row"><th class="sorting_desc" tabindex="0" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" style="width: 15%;" aria-sort="descending" aria-label="Datum a čas: aktivujte pro řazení sloupce vzestupně">Datum a čas</th><th class="sorting" tabindex="0" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" style="width: 20%;" aria-label="Událost: aktivujte pro řazení sloupce vzestupně">Událost</th><th class="sorting_disabled" rowspan="1" colspan="1" style="width: 15%;" aria-label="Blokováno od">Blokováno od</th><th class="sorting_disabled" rowspan="1" colspan="1" style="width: 15%;" aria-label="Blokováno do">Blokováno do</th><th class="sorting" tabindex="0" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" style="width: 15%;" aria-label="Kdo zapsal: aktivujte pro řazení sloupce vzestupně">Kdo zapsal</th><th class="sorting_disabled" rowspan="1" colspan="1" style="width: 20%;" aria-label="Poznámka">Poznámka</th></tr></thead><tbody><tr role="row" class="odd"><td tabindex="0" class="sorting_1">21.09.2020 12:51:17</td><td>Nastavení / změna hesla</td><td>—</td><td>—</td><td>kornerus</td><td>—</td></tr><tr role="row" class="even"><td tabindex="0" class="sorting_1">21.09.2020 11:50:14</td><td>Nastavení / změna hesla</td><td>—</td><td>—</td><td>mulleiva</td><td>—</td></tr></tbody></table></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <a role="button" data-toggle="collapse" href="https://usermap.cvut.cz/profile/e87ce662-5a90-4869-9db8-7ef759298376#profile-eduroam-password">Heslo eduroam (WiFi)<i class="fa fa-plus-circle collapse-btn"></i></a>
+                <div class="password-actual-state" style="display: none;">—&nbsp;&nbsp; Aktuální stav: </div>
+            </div>
+            <div id="profile-eduroam-password" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <div class="loading-data"><i class="icon fa fa-fw fa-refresh fa-spin"></i>&nbsp;&nbsp;Načítají se data...</div>
+                    <table class="table table-condensed table-hover display responsive" width="100%">
+                    </table>
+                </div>
+            </div>
+        </div>
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <a role="button" data-toggle="collapse" href="https://usermap.cvut.cz/profile/e87ce662-5a90-4869-9db8-7ef759298376#profile-certificates">Osobní certifikáty<i class="fa fa-plus-circle collapse-btn"></i></a>
+            </div>
+            <div id="profile-certificates" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <div class="loading-data"><i class="icon fa fa-fw fa-refresh fa-spin"></i>&nbsp;&nbsp;Načítají se data...</div>
+                    <table class="table table-condensed table-hover display responsive nowrap" width="100%">
+                    </table>
+                </div>
+            </div>
+        </div>
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <a role="button" data-toggle="collapse" href="https://usermap.cvut.cz/profile/e87ce662-5a90-4869-9db8-7ef759298376#profile-broles">Seznam business rolí<i class="fa fa-plus-circle collapse-btn"></i></a>
+            </div>
+            <div id="profile-broles" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <div class="loading-data"><i class="icon fa fa-fw fa-refresh fa-spin"></i>&nbsp;&nbsp;Načítají se data...</div>
+                    <table class="table table-condensed table-hover display responsive nowrap" width="100%">
+                    </table>
+                </div>
+            </div>
+        </div>
+
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <a role="button" data-toggle="collapse" href="https://usermap.cvut.cz/profile/e87ce662-5a90-4869-9db8-7ef759298376#profile-troles">Seznam technických rolí<i class="fa fa-plus-circle collapse-btn"></i></a>
+            </div>
+            <div id="profile-troles" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <div class="loading-data"><i class="icon fa fa-fw fa-refresh fa-spin"></i>&nbsp;&nbsp;Načítají se data...</div>
+                    <table class="table table-condensed table-hover display responsive nowrap" width="100%">
+                    </table>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+</div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+        </div>
+        <footer id="footer">
+            <div class="bar">
+    <div class="text-center">
+    Copyright © 2021 ČVUT v Praze        | provozuje ČVUT - Výpočetní a informační centrum
+        | Hlášení chyb a námětů <a href="https://helpdesk.cvut.cz/secure/CreateIssueDetails!init.jspa?pid=13461&amp;issuetype=1&amp;components=13640&amp;priority=3" target="_blank">Helpdesk ČVUT</a>
+    </div>
+</div>
+        </footer>
+            <script type="text/javascript" src="./Korneev_Ruslan_files/jquery-3.2.1.min.js"></script>
+            <script type="text/javascript" src="./Korneev_Ruslan_files/jquery.i18n.js"></script>
+            <script type="text/javascript" src="./Korneev_Ruslan_files/jquery.i18n.messagestore.js"></script>
+            <script type="text/javascript" src="./Korneev_Ruslan_files/bootstrap-3.3.7.min.js"></script>
+            <script type="text/javascript" src="./Korneev_Ruslan_files/usermap-common.js"></script>
+            <script type="text/javascript" src="./Korneev_Ruslan_files/messages.js"></script>
+            <script type="text/javascript" src="./Korneev_Ruslan_files/moment.min.js"></script>
+            <script type="text/javascript" src="./Korneev_Ruslan_files/datatables.min.js"></script>
+            <script type="text/javascript" src="./Korneev_Ruslan_files/datatables-moment.js"></script>
+            <script type="text/javascript" src="./Korneev_Ruslan_files/profile.js"></script>
+    
+
+
+<script>
+    var PERSON_ID = 502591;
+    var PERSON_UID = 'kornerus';
+    var PERSON_UUID = 'e87ce662-5a90-4869-9db8-7ef759298376';
+</script>
+
+</body></html>

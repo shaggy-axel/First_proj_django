@@ -96,9 +96,11 @@ h1, h2, h3, h4, h5, h6 {
 h2 {
 	float:left;
 	line-height:40px;
-	border-bottom:2px solid #000;
+	height:40px;
+	background:#000 url(../img/h2-bg.png) no-repeat right;
 	margin:0 0 20px 0;
-	color:#000;
+	padding:0 50px 0 10px;
+	color:#fff;
 }
 
 a {
@@ -180,6 +182,13 @@ strong {
 	color: #545454;
 }
 
+#stripe {
+	background: url(../img/stripe.png) repeat-x;
+	height:14px;
+	width:100px;
+	margin:0 0 40px 0;
+}
+
 /*-------------------------------------------------------------------
 3.2 Main content
 ---------------------------------------------------------------------*/
@@ -221,13 +230,39 @@ strong {
 	height:59px;
 }
 
-#stripe {
-	background: url(../img/stripe.png) repeat-x;
-	height:14px;
-	width:100%;
-	margin:0 0 40px 0;
-}
+/*
 
+
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    text-rendering: geometricPrecision;
+    pointer-events: auto;
+    user-select: text;
+    writing-mode: horizontal-tb;
+    text-shadow: rgba(0, 0, 0, 0.5) 3.29983px 3.29983px 0px, rgba(0, 0, 0, 0.3) 6.59966px 6.59966px 0px;
+    font-kerning: none;
+    font-variant-ligatures: none;
+    font-feature-settings: "kern" 0,"calt" 0,"liga" 0,"clig" 0,"dlig" 0,"hlig" 0;
+    -webkit-font-smoothing: subpixel-antialiased;
+    tab-size: 4;
+    letter-spacing: 0;
+    direction: ltr;
+    --vertical-metrics-adjustment: 0;
+    --para-spacing: 0;
+    white-space: pre;
+    word-wrap: normal;
+    cursor: unset;
+    text-align: center;
+    line-height: 1;
+    font-family: "YADK39gLYAg 0", _fb_, auto;
+    font-size: 74.6667px;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+
+
+*/
 /*-------------------------------------------------------------------
 3.3 Footer
 ---------------------------------------------------------------------*/
