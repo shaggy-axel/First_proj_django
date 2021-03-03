@@ -1,13 +1,8 @@
 from django.shortcuts import render
 
-class Person():
-    def __init__(self, name):
-        self.name = name
-
 def main_view(request):
-    p1 = Person('Kate')
-    name = 'Diana'
-    return render(request, 'index.html', {'name': name, 'person':p1})
+
+    return render(request, 'index.html')
 
 def about_view(request):
 
